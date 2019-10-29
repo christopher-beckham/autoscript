@@ -1,0 +1,13 @@
+{
+    "cmd": "python task_launcher.py",
+    "parameters": {
+        "--a": [1, 2, 3],
+        "--b": [2, 3, 4],
+        "--c": ["str1", "str2"],
+        "--seed": [0]
+    },
+    "metadata": {
+        "name": "testing123",
+        "random_id": ["poop"]
+    }
+}
